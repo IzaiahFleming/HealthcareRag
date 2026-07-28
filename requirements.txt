@@ -1,0 +1,16 @@
+python-dotenv
+pandas
+beautifulsoup4
+lxml
+sentence-transformers
+chromadb
+anthropic
+openai
+presidio-analyzer
+presidio-anonymizer
+spacy
+faker
+deepeval
+fastapi
+uvicorn
+pytest
