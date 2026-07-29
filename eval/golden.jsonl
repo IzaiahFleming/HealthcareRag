@@ -1,0 +1,3 @@
+{"question": "REPLACE ME with a real question answerable from a document you indexed", "ground_truth": "REPLACE ME with the correct answer", "_note": "Write 20-50 of these from the docs you actually ingested. Delete this _note field."}
+{"question": "REPLACE ME: e.g. what diagnosis codes support coverage for <service>?", "ground_truth": "REPLACE ME"}
+{"question": "REPLACE ME: e.g. what documentation does the policy require?", "ground_truth": "REPLACE ME"}
