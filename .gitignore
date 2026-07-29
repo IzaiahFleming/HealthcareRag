@@ -2,7 +2,13 @@
 __pycache__/
 *.pyc
 .env
-data/raw/*
+
 !data/raw/.gitkeep
+# in .gitignore, replace the data lines with:
+data/*.mdb
+data/*.pdf
+data/*.csv
+data/*.txt
+data/raw/
 data/chroma/
 .deepeval*
